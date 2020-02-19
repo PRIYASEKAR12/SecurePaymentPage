@@ -1,0 +1,181 @@
+body {
+
+}
+.division {
+    background-color: yellowgreen;
+    height:25px;
+    margin-top:15px;
+    margin-bottom:10px;
+    width:740px;
+}
+.header{
+    color:#223d7A;
+    font-size:30px;
+    padding-left:150px;
+    font-weight:bold;
+}
+.selectheader{
+    margin-top:-70px;
+    padding-left:150px;   
+}
+.top{
+    color:#223d7A;
+    font-weight:bold;
+    margin-right:200px;
+}
+.firstTable{
+    height:120px;
+}
+.rowSpace{
+    padding-left:50px;
+}
+#question{
+    padding-left:560px;
+    margin-top:30px;
+    padding-bottom:10px;
+    
+}
+
+}
+.table{
+    height:100px;
+}
+.background{
+    background-color:#e6b78a;
+    height:600px;
+    width:100%;
+    margin-top:-240px;
+
+}
+.backgroundHead{
+    background-color: yellowgreen;
+}
+.border 
+{
+    max-width: 700px;
+    background: white;
+    border: groove;
+    margin:auto;
+    padding-top:40px;
+    padding-right:40px;
+    
+}
+
+
+#imgRose
+{
+    height:70px;
+    width:70px;
+}
+#imgVisa{
+    height:70px;
+    width:70px;
+    margin-left:160px;
+    border-style:solid;
+    margin-top: 60px;
+}
+ 
+ #bottomline{
+     color:#223d7a;
+    
+ }
+ a {
+  color: #223d7a;
+}
+ .imgWorld{
+     height:70px;
+     width:70px;
+     margin-left:200px;
+ }
+
+.endLine{
+    margin-left:50px;
+    
+ }
+.refresh_image{
+    height:30px;
+    width:30px
+
+}
+
+.line{
+    height:5px;
+    background-color:yellowgreen; 
+    width:550px;
+}
+.footer{
+    background-color:#98cb00;
+    height:35px;
+    font-weight:bold;
+    font-size:25px;
+    text-align:center;
+    color:#223850;
+    width:106%
+
+}
+#secondQuestion{
+    padding-left:560px;
+    margin-top:150px;
+
+}
+
+#checkCardNumber{
+    display:none;
+    color:red;
+}
+#checkCode{
+    display:none;
+    color:red;
+}
+#checkName{
+    display:none;
+    color:red;
+}
+#checkYear{
+    display:none;
+    color:red;
+}
+#checkMonth{
+    display:none;
+    color:red;
+}
+#checkFirstAddress{
+    display:none;
+    color:red;
+}
+#checkSecondAddress{
+    display:none;
+    color:red;
+}
+#checkThirdAddress{
+    display:none;
+    color:red;
+}
+#checkCity{
+    display:none;
+    color:red;
+}
+#checkRegion{
+    display: none;
+    color:red;
+}
+#checkCountry{
+    display:none;
+    color:red;
+}
+#checkTelephone{
+    display:none;
+    color:red;
+}
+#checkPostCode{
+    display:none;
+    color:red;
+}
+#checkFax{
+    display:none;
+    color:red;
+}
+#checkEmail{
+    display:none;
+    color:red;
+}
